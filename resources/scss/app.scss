@@ -1,0 +1,16 @@
+@import '~bootstrap/scss/bootstrap';
+
+//COLORS
+$dc-white: #fffefe;
+$dc-black: #1d1c1d;
+$dc-primary: #0383f9;
+$dc-dark: #313031;
+$dc-secondary: #929292;
+
+//home
+@import './partials/home.scss';
+//cards
+@import './partials/card.scss';
+
+//footer
+@import './partials/footer.scss';
